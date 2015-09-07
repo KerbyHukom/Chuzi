@@ -1,0 +1,87 @@
+<html>
+<link rel="stylesheet" type="text/css" href="style.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src="chuzi.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.4/css/bootstrap.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<title>Chuzi</title>
+<head>
+
+
+<body>
+<div id="section1">
+<div style="width:100%; position:absolute; z-index: 999">
+        
+<div class="navbar navbar-inverse ">
+    <div class="containerBCP">
+        <!-- Header -->
+
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <img id = "logo" src = "/var/www/html/chuzi/images/logo.png">
+        </div>
+        <!-- Navbar Links -->
+        <div class="collapse navbar-collapse">
+            <ul class="nav navbar-nav">
+                <li class="active"><a href="#">BLOG</a></li>
+                <li class="active"><a href="#about">CONTEST</a></li>
+                <li class="active"><a href="#contact">PRESS</a></li>
+                <li class="active"><a href="#contact">CAMPUS HOTSHOTS</a></li>
+                <li class="active"><a href="#contact">ABOUT</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+</div>
+
+
+
+
+
+<br><br><br>
+
+
+
+<div class="container">
+<br>
+<div id="col-lg-3" class="col-lg-3">
+        <center><p id="bechuzi" style="font-size:35px; color:white;">#BeChuzi</p></center>
+        <img id = "bechuzi" src = "images/CP.png" width="321px" height="451px">
+</div>
+        <center><p id="imac" style="color:#FF9533;">Invite <img class="dot" src = "images/dot.png"> Mingle <img class="dot" src = "images/dot.png"> Admire <img class="dot" src = "images/dot.png"> Connect</p></center>
+<div class="containerappplay" style="display: inline-flex;">
+<div id="play" class="col-md-3" style="width:50%;">
+        <a href="https://play.google.com/store/apps/details?id=com.hellomedialtd.chuzimix.core" target=" ">
+        <img src = "images/GOOGLE PLAY.png" style="float:right;">
+        </a>
+</div>
+<div id="app" class="col-md-3" style="width:50%;">
+        <a href="https://itunes.apple.com/us/app/chuzi-mix/id924012114?ls=1&mt=8" target=" ">
+        <img src = "images/GOOGLE APP.png" style="float:left;">
+        </a>
+</div>
+</div>
+
+<br><br>
+<div id="navbar2">
+        <center><ul style="padding-right: 40px;">
+            <li class="CPTS" style="color:#989898; font-size:12px"> CONTACT </li>
+            <li class="CPTS" style="color:#989898; font-size:12px"> PRIVACY </li>
+            <li class="CPTS" style="color:#989898; font-size:12px"> TERMS </li>
+            <li class="CPTS" style="color:#989898; font-size:12px"> SAFETY </li>
+        </ul></center>
+</div>
+</div>
+</div>
+</div>
+</div> <!--  END OF SECTION1  -->
+</body>
+
+
+</head>
+</html>
+
